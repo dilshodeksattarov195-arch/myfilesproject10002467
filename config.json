@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersncrypt",
+        "uuid": 1729367,
+        "checksum": "ivy2gd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
